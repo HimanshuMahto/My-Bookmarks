@@ -1,62 +1,14 @@
 [
   {
-    "createdAt": 1771516077208,
-    "id": "1771516077208-2jfp46y",
-    "summary": "A free online tool for generating QR codes.",
-    "tags": [
-      "qr code",
-      "generator",
-      "free tool"
-    ],
+    "id": "1771527578017-96tg9gn",
     "text": "Free QR Code Generator",
-    "url": "https://qrfy.com/?utm_source=Google&utm_medium=CPC&utm_campaign=17918940657&utm_term=qr%20generator&gad_source=1&gad_campaignid=17918940657&gbraid=0AAAAABvDOdKNcgjMDVQh7iYYiBH6Yrgb3&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjEwi3ShLc71whEi4AhMsV3znm2GVxD2OofrwH6ki1-Ds-sHo-RyC6waAmGVEALw_wcB"
-  },
-  {
-    "createdAt": 1771515106784,
-    "id": "1771515106784-0e9mwde",
-    "summary": "Modify a sorted array in-place to remove duplicate elements such that each unique element appears at most twice.",
+    "url": "https://qrfy.com/?utm_source=Google&utm_medium=CPC&utm_campaign=17918940657&utm_term=qr%20generator&gad_source=1&gad_campaignid=17918940657&gbraid=0AAAAABvDOdKNcgjMDVQh7iYYiBH6Yrgb3&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjEwi3ShLc71whEi4AhMsV3znm2GVxD2OofrwH6ki1-Ds-sHo-RyC6waAmGVEALw_wcB",
+    "createdAt": 1771527578017,
     "tags": [
-      "arrays",
-      "two pointers",
-      "inplace"
+      "qr codes",
+      "generator",
+      "free tools"
     ],
-    "text": "Remove Duplicates from Sorted Array II - LeetCode",
-    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150"
-  },
-  {
-    "createdAt": 1771514777268,
-    "id": "1771514777268-wf5hq4r",
-    "summary": "This guide offers a step-by-step approach to system design interviews, including tips and detailed solutions to common questions.",
-    "tags": [
-      "system design",
-      "interviews",
-      "problem-solving"
-    ],
-    "text": "System Design Interview â An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
-    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf#page=99"
-  },
-  {
-    "createdAt": 1771514580575,
-    "id": "1771514580575-z2btyml",
-    "summary": "This guide offers a step-by-step approach to system design interviews, including tips and solutions to 15 common questions.",
-    "tags": [
-      "system design",
-      "interview prep",
-      "software engineering"
-    ],
-    "text": "System Design Interview â An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
-    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf"
-  },
-  {
-    "createdAt": 1771514536959,
-    "id": "1771514536959-93ui64p",
-    "summary": "This document covers essential system design concepts, focusing on logging and metrics for distributed systems.",
-    "tags": [
-      "system design",
-      "observability",
-      "distributed systems"
-    ],
-    "text": "logging, metrics",
-    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf"
+    "summary": "A website that allows users to create QR codes for free."
   }
 ]
