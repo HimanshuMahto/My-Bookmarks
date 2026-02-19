@@ -1,15 +1,27 @@
 [
   {
-    "id": "1771515106784-0e9mwde",
-    "text": "Remove Duplicates from Sorted Array II - LeetCode",
-    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150",
-    "createdAt": 1771515106784,
+    "createdAt": 1771515518852,
+    "id": "1771515518852-foyshcb",
+    "summary": "Modify a sorted array in-place to remove duplicates such that each element appears at most twice.",
     "tags": [
       "arrays",
       "two pointers",
       "inplace"
     ],
-    "summary": "Modify a sorted array in-place to remove duplicate elements such that each unique element appears at most twice."
+    "text": "Remove Duplicates from Sorted Array II - LeetCode",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150"
+  },
+  {
+    "createdAt": 1771515106784,
+    "id": "1771515106784-0e9mwde",
+    "summary": "Modify a sorted array in-place to remove duplicate elements such that each unique element appears at most twice.",
+    "tags": [
+      "arrays",
+      "two pointers",
+      "inplace"
+    ],
+    "text": "Remove Duplicates from Sorted Array II - LeetCode",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150"
   },
   {
     "createdAt": 1771514777268,
@@ -20,7 +32,7 @@
       "interviews",
       "problem-solving"
     ],
-    "text": "System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
+    "text": "System Design Interview â An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
     "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf#page=99"
   },
   {
@@ -32,7 +44,7 @@
       "interview prep",
       "software engineering"
     ],
-    "text": "System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
+    "text": "System Design Interview â An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
     "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf"
   },
   {
