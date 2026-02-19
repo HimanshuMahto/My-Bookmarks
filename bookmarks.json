@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "createdAt": 1771514777268,
+    "id": "1771514777268-wf5hq4r",
+    "summary": "This guide offers a step-by-step approach to system design interviews, including tips and detailed solutions to common questions.",
+    "tags": [
+      "system design",
+      "interviews",
+      "problem-solving"
+    ],
+    "text": "System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
+    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf#page=99"
+  },
+  {
+    "createdAt": 1771514580575,
+    "id": "1771514580575-z2btyml",
+    "summary": "This guide offers a step-by-step approach to system design interviews, including tips and solutions to 15 common questions.",
+    "tags": [
+      "system design",
+      "interview prep",
+      "software engineering"
+    ],
+    "text": "System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions",
+    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf"
+  },
+  {
+    "createdAt": 1771514536959,
+    "id": "1771514536959-93ui64p",
+    "summary": "This document covers essential system design concepts, focusing on logging and metrics for distributed systems.",
+    "tags": [
+      "system design",
+      "observability",
+      "distributed systems"
+    ],
+    "text": "logging, metrics",
+    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf"
+  }
+]
