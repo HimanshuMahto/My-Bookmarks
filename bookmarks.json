@@ -1,15 +1,15 @@
 [
   {
-    "createdAt": 1771515518852,
-    "id": "1771515518852-foyshcb",
-    "summary": "Modify a sorted array in-place to remove duplicates such that each element appears at most twice.",
+    "createdAt": 1771516077208,
+    "id": "1771516077208-2jfp46y",
+    "summary": "A free online tool for generating QR codes.",
     "tags": [
-      "arrays",
-      "two pointers",
-      "inplace"
+      "qr code",
+      "generator",
+      "free tool"
     ],
-    "text": "Remove Duplicates from Sorted Array II - LeetCode",
-    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150"
+    "text": "Free QR Code Generator",
+    "url": "https://qrfy.com/?utm_source=Google&utm_medium=CPC&utm_campaign=17918940657&utm_term=qr%20generator&gad_source=1&gad_campaignid=17918940657&gbraid=0AAAAABvDOdKNcgjMDVQh7iYYiBH6Yrgb3&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjEwi3ShLc71whEi4AhMsV3znm2GVxD2OofrwH6ki1-Ds-sHo-RyC6waAmGVEALw_wcB"
   },
   {
     "createdAt": 1771515106784,
