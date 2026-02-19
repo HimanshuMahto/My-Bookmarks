@@ -1,5 +1,17 @@
 [
   {
+    "id": "1771515106784-0e9mwde",
+    "text": "Remove Duplicates from Sorted Array II - LeetCode",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150",
+    "createdAt": 1771515106784,
+    "tags": [
+      "arrays",
+      "two pointers",
+      "inplace"
+    ],
+    "summary": "Modify a sorted array in-place to remove duplicate elements such that each unique element appears at most twice."
+  },
+  {
     "createdAt": 1771514777268,
     "id": "1771514777268-wf5hq4r",
     "summary": "This guide offers a step-by-step approach to system design interviews, including tips and detailed solutions to common questions.",
