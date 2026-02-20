@@ -1,14 +1,30 @@
 [
   {
-    "id": "1771527578017-96tg9gn",
-    "text": "Free QR Code Generator",
-    "url": "https://qrfy.com/?utm_source=Google&utm_medium=CPC&utm_campaign=17918940657&utm_term=qr%20generator&gad_source=1&gad_campaignid=17918940657&gbraid=0AAAAABvDOdKNcgjMDVQh7iYYiBH6Yrgb3&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjEwi3ShLc71whEi4AhMsV3znm2GVxD2OofrwH6ki1-Ds-sHo-RyC6waAmGVEALw_wcB",
-    "createdAt": 1771527578017,
+    "createdAt": 1771585660754,
+    "id": "1771585660754-vjpll6j",
+    "summary": "This resource provides a step-by-step guide, tips, and solutions to 15 system design interview questions.",
     "tags": [
-      "qr codes",
-      "generator",
-      "free tools"
+      "system design",
+      "interviews",
+      "preparation"
     ],
-    "summary": "A website that allows users to create QR codes for free."
+    "text": "System Design Interview Guide",
+    "url": "https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf#page=49"
+  },
+  {
+    "createdAt": 1771584318953,
+    "id": "1771584318953-dvzttwf",
+    "lastRead": 1771604249670,
+    "scrollPercent": 55,
+    "scrollY": 5965,
+    "summary": "This article explains how to adapt content from Threads, Bluesky, or X into a more in-depth Medium story.",
+    "tags": [
+      "writing",
+      "medium",
+      "social media"
+    ],
+    "text": "Convert Social Media Threads to Medium Stories",
+    "trackProgress": true,
+    "url": "https://medium.com/blog/how-to-turn-your-threads-bluesky-or-x-thread-into-a-medium-story-7c6ed8d5c109"
   }
 ]
